@@ -1,1 +1,2 @@
-console.log('View All students');
+
+checkPoint();

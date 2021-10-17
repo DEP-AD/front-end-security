@@ -1,1 +1,3 @@
-console.log('Add student');
+
+
+checkPoint();
